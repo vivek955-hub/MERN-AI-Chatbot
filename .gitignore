@@ -39,3 +39,6 @@ Thumbs.db
 # npm package manager cache
 .npm/
 .yarn/
+
+# Ignored after accidental commit
+frontend/public/Core_Java_Project_final.pdf
